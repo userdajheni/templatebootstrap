@@ -4,7 +4,3 @@ Neste projeto foi desenvolvido um template com Bootstrap. Utilizamos HTML, CSS, 
 
 >Instrutor: [Guilherme Ferreira](https://www.udemy.com/user/guilherme-ferreira-4/)
 >Curso: [Template com Bootstrap](https://www.udemy.com/course/template-com-bootstrap/)
-
-
-# Visualize o projeto
-[Clique aqui](#)
